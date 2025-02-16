@@ -1,5 +1,26 @@
-# 💫 About Me:
-🔭 Currently working on: Advanced AI integration in full-stack web apps<br>👯 Looking to collaborate on: Innovative AI and full-stack projects<br>🤝 Looking for help with: Optimizing CI/CD pipelines and AI deployments<br>🌱 Currently learning: Kubernetes, advanced ML, and cloud automation<br>💬 Ask me about: MEAN/MERN development, API design, and AI integration<br>⚡ Fun fact: I blend tech creativity with robust functionality in everything I build!
+🚀 **Greetings! I'm Sahil P. Mangukiya, your go-to Full Stack Developer and digital innovator, dedicated to building scalable, secure, and high-performing web applications.** With over 4.5 years of hands-on experience in crafting robust solutions that blend cutting-edge back-end technologies with engaging front-end designs, I empower businesses to excel in the digital landscape.
+
+**Here's what I offer:**  
+✔️ **Full Stack Mastery:** MEAN, MERN, and PHP Laravel  
+✔️ **API Excellence:** RESTful API design & integration  
+✔️ **UI/UX & Responsive Design:** Modern, mobile-first interfaces  
+✔️ **Modern Web Development:** ES6+, HTML5, CSS3, React, Angular  
+✔️ **Cloud & DevOps:** AWS, Azure, CI/CD pipelines, Docker, Kubernetes  
+✔️ **Maintenance & Support:** Performance tuning, proactive debugging, continuous improvement with Sentry, UptimeRobot, and Cloudflare  
+✔️ **Quality Assurance:** Automated unit, integration, and end-to-end testing  
+✔️ **End-to-End Solutions:** Complete front-end to back-end development  
+✔️ **AI Integration:** ChatGPT API, machine learning, prompt engineering  
+✔️ **GPT Apps Development:** Python, GPT Langchain, Pinecone, Weaviate, FAISS, ChromaDB, PG vector  
+✔️ **Automation & Custom GPT:** ChatGPT API, Whisper API, GPT4, OpenAI services  
+✔️ **AI Tools & TTS Integration:** OpenAI GPT4, Assistants API, Elevenlabs, Coqui, Bark  
+✔️ **LLM Deployment:** Runpod, cloud GPU solutions  
+✔️ **Chatbot & Plugin Development:** NSFW/influencer chatbots, ChatGPT plugins  
+✔️ **Python Integration & Automation:** Connectors, REST/SOAP API, workflow automation  
+✔️ **Data Connectors:** Airtable API, TableAu integrations, custom scripts  
+✔️ **Frontend Development:** ReactJS, JavaScript, HTML, CSS, WebFlow
+
+👍🏽 **Let's Connect:**  
+If you're seeking a partner who fuses technical expertise with creative insight and clear communication, let's collaborate to build innovative solutions that drive your business forward.
 
 
 ## 🌐 Socials:
