@@ -2,7 +2,6 @@
 
 🚀 **Greetings! I'm Sahil P. Mangukiya, your go-to Full Stack Developer and digital innovator, dedicated to building scalable, secure, and high-performing web applications.** With over 4.5 years of hands-on experience in crafting robust solutions that blend cutting-edge back-end technologies with engaging front-end designs, I empower businesses to excel in the digital landscape.
 
-**Here's what I offer:**  
 ✔️ **Full Stack Mastery:** MEAN, MERN, and PHP Laravel  
 ✔️ **API Excellence:** RESTful API design & integration  
 ✔️ **UI/UX & Responsive Design:** Modern, mobile-first interfaces  
